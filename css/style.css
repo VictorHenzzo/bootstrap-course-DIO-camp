@@ -1,0 +1,27 @@
+.navbar{
+   background-color: #333137;
+}
+
+.navbar-brand{
+   padding: 15px 50px;
+}
+
+.navbar-light .navbar-nav .nav-link, .quem-somos, .parceiros {
+   color: white;
+}
+
+.margin-vertical{
+   padding: 50px 0px;
+}
+
+.margin{
+   padding-top: 20px;
+}
+
+.quem-somos{
+   background-color: #76323F;
+}
+
+.parceiros{
+   background-color: #C09F80;
+}
