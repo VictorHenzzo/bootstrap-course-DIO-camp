@@ -6,7 +6,7 @@
    padding: 15px 50px;
 }
 
-.navbar-light .navbar-nav .nav-link, .quem-somos, .parceiros {
+.navbar-light .navbar-nav .nav-link, .quem-somos, .parceiros,.servicos {
    color: white;
 }
 
@@ -20,6 +20,10 @@
 
 .quem-somos{
    background-color: #76323F;
+}
+
+.servicos{
+   background-color: #D7CeC7;
 }
 
 .parceiros{
