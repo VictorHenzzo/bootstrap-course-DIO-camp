@@ -1,2 +1,4 @@
-# camp-takeBlip-webDEV
-Repositório destinado aos exercícios feitos durante o bootcamp da Take Blip Web Developer, disponibilizado na plataforma DIO
+# Bootstrap Course
+Repositório destinado a criação de um site utilizando o framework Bootstrap.
+
+Aulas ministradas no bootcamp TakeBlip Web Developer, através da plataforma Digital Innovation One
